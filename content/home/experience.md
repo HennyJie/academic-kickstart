@@ -18,12 +18,12 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Intern"
-  company = "Sensetime"
-  company_url = "https://www.sensetime.com/en/"
-  location = "Beijing, China"
-  date_start = "2018-12-18"
-  date_end = "2019-7-15"
+  title = "Research Assistant"
+  company = "University of Oxford"
+  company_url = "https://www.cs.ox.ac.uk/"
+  location = "Oxford, UK"
+  date_start = "2018-09-08"
+  date_end = "2019-09-30"
   description = """
   Worked with [Chris Xiaoxuan Lu](http://www.cs.ox.ac.uk/people/xiaoxuan.lu/) to build a Face and Speech Recognition System with surveillance cameras and microphones:
   
@@ -32,12 +32,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Mitacs Global Research Intern"
-  company = "Queens University"
-  company_url = "http://perk.cs.queensu.ca/"
-  location = "Kingston, Cananda"
-  date_start = "2018-07-25"
-  date_end = "2018-10-15"
+  title = "Technology Summer Analyst"
+  company = "Morgan Stanley"
+  company_url = "https://www.morganstanley.com/"
+  location = "Shanghai, China"
+  date_start = "2018-07-09"
+  date_end = "2018-09-07"
   description = """Used machine learning algorithms(NLP, One-Class SVM) to detect malicious commands in Linux:
 
   * Loaded data in multiple threads from NFS among firm.
