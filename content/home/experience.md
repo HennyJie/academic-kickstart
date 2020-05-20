@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 
 # Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
+<!-- [[experience]]
 title = "Research Intern"
 company = "SenseTime"
 company_url = "https://www.sensetime.com/en/"
@@ -60,6 +60,6 @@ company_url = ""
 location = "Shanghai, China"
 date_start = "2017-07-01"
 date_end = "2017-08-30"
-description = """Helped to develop SAP ERP system and use the HANA database to process enterprise management data """
+description = """Helped to develop SAP ERP system and use the HANA database to process enterprise management data """ -->
 
 +++
