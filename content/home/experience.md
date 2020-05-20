@@ -26,38 +26,17 @@ date_format = "Jan 2006"
 
 # Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-title = "Research Intern"
-company = "SenseTime"
-company_url = "https://www.sensetime.com/en/"
-location = "Beijing"
-date_start = "2018-12-18"
-date_end = "2019-7-15"
-description = """Pulmonary Vessel Segmentation based on OrthogonalFused U-Net++ of Chest CT Images:
-  Worked as a intern algorithm engineer in the Intelligent Medical Group
-  Developed a pulmonary vessel segmentation algorithm based on my updated network, an orthogonal fused U-Net++, for chest CT images
-  Published a patent on my intern work and got one paper accepted by MICCAI 2019, International Conference on Medical Image Computing and Computer Assisted Intervention, which is the tier 1 conference in medical imaging field, as the first author """
+[[experience]] title = "Research Assistant" company = "University of Oxford" company_url = "https://www.cs.ox.ac.uk/" location = "Oxford, UK" date_start = "2018-09-08" date_end = "2019-09-30" description = """ Worked with Chris Xiaoxuan Lu to build a Face and Speech Recognition System with surveillance cameras and microphones:
 
-[[experience]]
-title = "Mitacs Global Research Intern"
-company = "Queen's University"
-company_url = "http://perk.cs.queensu.ca/"
-location = "Kingston, Cananda"
-date_start = "2018-07-25"
-date_end = "2018-10-15"
-description = """Improve Center Line Tutor by Deep Learning:
-  Built an extension for classifying web-cam video images using Tensorflow in 3D Slicer
-  Used Tensorflow in real-time workflow detection for providing real-time feedback in central venous catheterization training
-  Made distortion such as deforming, cropping, or brightening in the training inputs in random ways to polish the model, analyzed the influence of each parameters to get the best retrained model """
+Proposed a method using Wi-Fi appearance information to label images and audio automatically in the wild by Python programming.
+Designed and implemented a pipeline framework to label capturing images and fine-tune the model. """
 
-[[experience]]
-title = "Software Engineer Intern"
-company = "SAP"
-company_url = ""
-location = "Shanghai, China"
-date_start = "2017-07-01"
-date_end = "2017-08-30"
-description = """Helped to develop SAP ERP system and use the HANA database to process enterprise management data """
+[[experience]] title = "Technology Summer Analyst" company = "Morgan Stanley" company_url = "https://www.morganstanley.com/" location = "Shanghai, China" date_start = "2018-07-09" date_end = "2018-09-07" description = """Used machine learning algorithms(NLP, One-Class SVM) to detect malicious commands in Linux:
+
+Loaded data in multiple threads from NFS among firm.
+Got every available commands’ manual page to get the corpus and build LSI Model. Used NLP to remove stop words(some of the most common, short function words).
+Used AdaBoost to detect outlier in One-Class SVM. """
+
 
 
 
