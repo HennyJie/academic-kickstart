@@ -1,12 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2020-05-20 02:05:54
- * @LastEditTime: 2020-05-20 04:42:27
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /AcademicPersonalPage/content/home/experience.md
--->
-
 +++
 
 # Experience widget.
