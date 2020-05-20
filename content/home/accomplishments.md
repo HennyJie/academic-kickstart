@@ -1,13 +1,24 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-05-20 02:05:54
+ * @LastEditTime: 2020-05-20 08:20:56
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: /AcademicPersonalPage/content/home/accomplishments.md
+-->
+
 +++
 
 # Accomplishments widget.
 
 widget = "accomplishments" # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true # This file represents a page section.
-active = false # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 50 # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+# title = "Accomplish&shy;ments"
+
+title = "Projects"
 subtitle = ""
 
 # Date format
