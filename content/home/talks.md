@@ -1,12 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2020-05-20 02:05:54
- * @LastEditTime: 2020-05-20 07:58:03
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /AcademicPersonalPage/content/home/talks.md
--->
-
 +++
 
 # A Recent and Upcoming Talks section created with the Pages widget.
