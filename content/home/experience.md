@@ -45,4 +45,13 @@ date_format = "Jan 2006"
   * Used AdaBoost to detect outlier in One-Class SVM.
   """
 
+[[experience]]
+  title = "Software Engineer Intern"
+  company = "SAP"
+  company_url = ""
+  location = "Shanghai, China"
+  date_start = "2017-07-01"
+  date_end = "2017-08-30"
+  description = """Helped to develop SAP ERP system and use the HANA database to process enterprise management data """
+
 +++
