@@ -30,12 +30,12 @@ date_format = "Jan 2006"
 
 Proposed a method using Wi-Fi appearance information to label images and audio automatically in the wild by Python programming.
 Designed and implemented a pipeline framework to label capturing images and fine-tune the model. """
-
 [[experience]] title = "Technology Summer Analyst" company = "Morgan Stanley" company_url = "https://www.morganstanley.com/" location = "Shanghai, China" date_start = "2018-07-09" date_end = "2018-09-07" description = """Used machine learning algorithms(NLP, One-Class SVM) to detect malicious commands in Linux:
 
 Loaded data in multiple threads from NFS among firm.
 Got every available commands’ manual page to get the corpus and build LSI Model. Used NLP to remove stop words(some of the most common, short function words).
 Used AdaBoost to detect outlier in One-Class SVM. """
+
 
 
 
