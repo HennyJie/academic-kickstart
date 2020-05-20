@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "ocean"
+theme = "1950s"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -90,7 +90,7 @@ address = {street = "201 Dowman Drive", city = "Atlanta", region = "GA", postcod
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.787085, ", longitude = "-84.302234"}
+# coordinates = {latitude = "33.787085, ", longitude = "-84.302234"}
 
 # Directions for visitors to locate you.
 directions = "Office N401"
