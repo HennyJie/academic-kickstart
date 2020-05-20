@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.sensetime.com/en/"
   location = "Beijing, China"
   date_start = "2018-12-18"
-  date_end = "2019-7-15"
+  date_end = "2019-07-15"
   description = """
   Worked with [Chris Xiaoxuan Lu](http://www.cs.ox.ac.uk/people/xiaoxuan.lu/) to build a Face and Speech Recognition System with surveillance cameras and microphones:
   
