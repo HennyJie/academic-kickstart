@@ -67,7 +67,7 @@ view = 2
 
 # Background color.
 
-# color = "navy"
+color = "navy"
 
 # Background gradient.
 

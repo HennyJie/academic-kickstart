@@ -22,7 +22,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -93,7 +93,7 @@ address = {street = "201 Dowman Drive", city = "Atlanta", region = "GA", postcod
 # coordinates = {latitude = "33.787085, ", longitude = "-84.302234"}
 
 # Directions for visitors to locate you.
-directions = "Office N401"
+directions = "Computer Science and Informatics Department, Office N401"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
