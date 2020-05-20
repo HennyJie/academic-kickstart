@@ -1,12 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2020-05-20 06:26:42
- * @LastEditTime: 2020-05-20 10:17:51
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /AcademicPersonalPage/content/publication/MICCAI/index.md
--->
-
 ---
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
