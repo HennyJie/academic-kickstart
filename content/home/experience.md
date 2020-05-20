@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   date_start = "2018-12-18"
   date_end = "2019-7-15"
   description = """
-  Pulmonary Vessel Segmentation based on OrthogonalFused U-Net++ of Chest CT Images:
-  
-  * Worked as a intern algorithm engineer in the Intelligent Medical Group.
-  * Developed a pulmonary vessel segmentation algorithm based on my updated network, an orthogonal fused U-Net++, for chest CT images.
-  * Published a patent on my intern work and got one paper accepted by MICCAI 2019, International Conference on Medical Image Computing and Computer Assisted Intervention, which is the tier 1 conference in medical imaging field, as the first author
+    Pulmonary Vessel Segmentation based on OrthogonalFused U-Net++ of Chest CT Images:
+    
+    * Worked as a intern algorithm engineer in the Intelligent Medical Group.
+    * Developed a pulmonary vessel segmentation algorithm based on my updated network, an orthogonal fused U-Net++, for chest CT images.
+    * Published a patent on my intern work and got one paper accepted by MICCAI 2019, International Conference on Medical Image Computing and Computer Assisted Intervention, which is the tier 1 conference in medical imaging field, as the first author
   """
 
 [[experience]]
@@ -41,9 +41,9 @@ date_format = "Jan 2006"
   date_end = "2018-10-15"
   description = """Improve Center Line Tutor by Deep Learning:
 
-  * Built an extension for classifying web-cam video images using Tensorflow in 3D Slicer.
-  * Used Tensorflow in real-time workflow detection for providing real-time feedback in central venous catheterization training.
-  * Made distortion such as deforming, cropping, or brightening in the training inputs in random ways to polish the model, analyzed the influence of each parameters to get the best retrained model.
+    * Built an extension for classifying web-cam video images using Tensorflow in 3D Slicer.
+    * Used Tensorflow in real-time workflow detection for providing real-time feedback in central venous catheterization training.
+    * Made distortion such as deforming, cropping, or brightening in the training inputs in random ways to polish the model, analyzed the influence of each parameters to get the best retrained model.
   """
 
 +++
