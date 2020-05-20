@@ -19,17 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "SenseTime"
+  company = "Sensetime"
   company_url = "https://www.sensetime.com/en/"
   location = "Beijing"
   date_start = "2018-12-18"
   date_end = "2019-7-15"
   description = """
-    Pulmonary Vessel Segmentation based on OrthogonalFused U-Net++ of Chest CT Images:
-    
-    * Worked as a intern algorithm engineer in the Intelligent Medical Group.
-    * Developed a pulmonary vessel segmentation algorithm based on my updated network, an orthogonal fused U-Net++, for chest CT images.
-    * Published a patent on my intern work and got one paper accepted by MICCAI 2019, International Conference on Medical Image Computing and Computer Assisted Intervention, which is the tier 1 conference in medical imaging field, as the first author
+  Worked with [Chris Xiaoxuan Lu](http://www.cs.ox.ac.uk/people/xiaoxuan.lu/) to build a Face and Speech Recognition System with surveillance cameras and microphones:
+  
+  * Proposed a method using Wi-Fi appearance information to label images and audio automatically in the wild by Python programming.
+  * Designed and implemented a pipeline framework to label capturing images and fine-tune the model.
   """
 
 [[experience]]
@@ -39,11 +38,11 @@ date_format = "Jan 2006"
   location = "Kingston, Cananda"
   date_start = "2018-07-25"
   date_end = "2018-10-15"
-  description = """Improve Center Line Tutor by Deep Learning:
+  description = """Used machine learning algorithms(NLP, One-Class SVM) to detect malicious commands in Linux:
 
-    * Built an extension for classifying web-cam video images using Tensorflow in 3D Slicer.
-    * Used Tensorflow in real-time workflow detection for providing real-time feedback in central venous catheterization training.
-    * Made distortion such as deforming, cropping, or brightening in the training inputs in random ways to polish the model, analyzed the influence of each parameters to get the best retrained model.
+  * Loaded data in multiple threads from NFS among firm.
+  * Got every available commands’ manual page to get the corpus and build LSI Model. Used NLP to remove stop words(some of the most common, short function words).
+  * Used AdaBoost to detect outlier in One-Class SVM.
   """
 
 +++
