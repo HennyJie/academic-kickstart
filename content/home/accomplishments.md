@@ -107,7 +107,7 @@ date_end = "2018-06-18"
 description = """
 * Established a new framework for anomaly (CPU, Memory, IO) detection and stress testing, which can forecast potential failures and pressure spills based on performance data.
 * Collected random injection failure and normal data by using Clear Water platform, trained the classical set KDDCUP99 and data collected in true environment through machine learning classifiers (SVM, Random Forest, NN, etc.).
-* Contrasted the precision, recall rates and F1 score of different classifiers, disovered the highest accuracy (99.7\%) with using NN methods.
+* Contrasted the precision, recall rates and F1 score of different classifiers, disovered the highest accuracy (0.997) with using NN methods.
 """
 
 +++
