@@ -30,17 +30,18 @@ organizations:
 bio: My research interests include information retrieval, machine learning and data mining.
 
 interests:
-
 - Information Retrieval
 - Machine Learning
 - Data Mining
 
 education:
-courses: - course: PhD in Computer Science
-institution: Emory University
-year: 2024 (expected) - course: BEng in Software Engineering
-institution: Tongji University
-year: 2019
+  courses: 
+  - course: PhD in Computer Science
+  institution: Emory University
+  year: 2024 (expected) 
+  - course: BEng in Software Engineering
+  institution: Tongji University
+  year: 2019
 
 # - course: BSc in Artificial Intelligence
 
@@ -56,8 +57,8 @@ year: 2019
 
 # form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-social:
 
+social:
 - icon: envelope
   icon_pack: fas
   # link: "#contact" # For a direct email link, use "mailto:test@example.org".
@@ -103,3 +104,5 @@ user_groups:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
 Hejie is a first year PhD student in the Computer Science Department of Emory University. Her research interests include information retrieval, machine learning and data mining. She currently works with [Dr.Eugene Agichtein](https://scholar.google.com/citations?user=3BX3vWcAAAAJ&hl=en). Before joing Emory, she previously worked on AI in medical imaging and computer vision during undergraduate study, where she focus on lung vessel segmentation from CT images.
+
+Reach me at: `cuihejie331771@gmail.com`
