@@ -78,4 +78,6 @@ user_groups:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
-Hejie is a first year PhD student in the Computer Science Department of Emory University. Her research interests include information retrieval, machine learning and data mining. She currently works with Dr.Eugene Agichtein. Before joing Emory, her previously worked on AI in medical imaging and computer vision during undergraduate study, where she focus on lung vessel segmentation from CT images.
+Hejie is a first year PhD student in the Computer Science Department of Emory University. Her research interests include information retrieval, machine learning and data mining. She currently works with [Dr.Eugene Agichtein](https://scholar.google.com/citations?user=3BX3vWcAAAAJ&hl=en). Before joing Emory, she previously worked on AI in medical imaging and computer vision during undergraduate study, where she focus on lung vessel segmentation from CT images.
+
+Reach me at: `cuihejie331771@gmail.com`
