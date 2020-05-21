@@ -1,0 +1,9 @@
+language: go
+go:
+  - "1.13"
+install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.71.0/hugo_extended_0.71.0_Linux-64bit.deb
+  - sudo dpkg -i hugo*.deb
+script:
+  - git submodule update --init --recursive
+  - hugo --gc --minify
