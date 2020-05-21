@@ -24,16 +24,17 @@ interests:
 - Information Retrieval
 - Machine Learning
 - Data Mining
+- AI in Medical Imaging
 
 education:
   courses: 
   - course: PhD in Computer Science
     institution: Emory University
-    url: https://en.wikipedia.org/wiki/Emory_University
+    link: https://en.wikipedia.org/wiki/Emory_University
     year: 2024
   - course: BEng in Software Engineering
     institution: Tongji University
-    url: https://en.wikipedia.org/wiki/Tongji_University
+    link: https://en.wikipedia.org/wiki/Tongji_University
     year: 2019
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -74,4 +75,4 @@ email: ""
 
 ---
 
-Hejie is a first year PhD student in the Computer Science Department of Emory University. Her research interests include information retrieval, machine learning and data mining. She currently works with [Dr.Eugene Agichtein](https://scholar.google.com/citations?user=3BX3vWcAAAAJ&hl=en). Before joing Emory, she previously worked on AI in medical imaging and computer vision during undergraduate study, where she focus on lung vessel segmentation from CT images.
+Hejie is a first year PhD student in the [Computer Science](http://www.cs.emory.edu/home/) Department of [Emory University](https://en.wikipedia.org/wiki/Emory_University). Her research interests include information retrieval, machine learning and data mining. She currently works with [Dr.Eugene Agichtein](https://scholar.google.com/citations?user=3BX3vWcAAAAJ&hl=en). Before joing Emory, she got her bachelor's degree in [Software Engineering](https://sse.tongji.edu.cn/) from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University). AI in medical imaging and computer vision is her previous fields during undergraduate study, where she focus on lung vessel segmentation from CT images.
