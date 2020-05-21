@@ -28,10 +28,10 @@ interests:
 education:
   courses: 
   - course: PhD in Computer Science
-    institution: Emory University
+    institution: [Emory University](https://en.wikipedia.org/wiki/Emory_University)
     year: 2024
   - course: BEng in Software Engineering
-    institution: Tongji University
+    institution: [Tongji University](https://en.wikipedia.org/wiki/Tongji_University)
     year: 2019
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
