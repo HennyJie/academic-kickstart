@@ -124,7 +124,7 @@ projects: []
     </div></a>
   </div>
 
-  <div class="card 4"><a href="https://www.foxerlee.top/" style="text-decoration: none;">
+  <div class="card 4"><a href="https://www.foxerlee.info/" style="text-decoration: none;">
     <div class="card_image" style="background-color: #a49bc8"> <img src="friends4.jpg" /> </div>
     <div class="card_title title-black">
       <br />
