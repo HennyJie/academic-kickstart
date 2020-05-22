@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Friends"
+# title: "Friends"
 subtitle: ""
 summary: ""
 authors: []
@@ -100,45 +100,84 @@ projects: []
 </style>
 
 <div class="cards-list">
-  <div class="card 1"><a href="https://yezhisheng.me/" style="text-decoration: none;">
+  <div class="card 1"><a href="https://zjzsliyang.com/friends/" style="text-decoration: none;">
     <div class="card_image" style="background-color: #e4b093"> <img src="friends1.jpg" /> </div>
     <div class="card_title title-black">
-      <p>dm-druid</p>
+      <p></p>
+      <br />
+      <p>zjzsly</p>
     </div></a>
   </div>
 
-  <div class="card 2"><a href="https://hejiecui.com/" style="text-decoration: none;">
+  <div class="card 2"><a href="https://yezhisheng.me/" style="text-decoration: none;">
     <div class="card_image" style="background-color: #f2bc6b"> <img src="friends2.jpg" /> </div>
     <div class="card_title title-black">
-      <p>Hejie Cui</p>
+      <p></p>
+      <br />
+      <p>yzs981130</p>
     </div></a>
   </div>
 
-  <div class="card 3"><a href="https://www.foxerlee.top/" style="text-decoration: none;">
+  <div class="card 3"><a href="https://sxkdz.github.io/" style="text-decoration: none;">
     <div class="card_image" style="background-color: #ecd8ba"> <img src="friends3.jpg" /> </div>
     <div class="card_title title-black">
-      <p>Foxerlee</p>
-    </div></a>
-  </div>
-
-  <div class="card 4"><a href="https://sxkdz.github.io/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #a49bc8"> <img src="friends4.jpg" /> </div>
-    <div class="card_title title-black">
+      <p></p>
+      <br />
       <p>SXKDZ</p>
     </div></a>
   </div>
 
-  <div class="card 5"><a href="https://ncaylmh.github.io/" style="text-decoration: none;">
+  <div class="card 4"><a href="https://www.foxerlee.top/" style="text-decoration: none;">
+    <div class="card_image" style="background-color: #a49bc8"> <img src="friends4.jpg" /> </div>
+    <div class="card_title title-black">
+      <p></p>
+      <br />
+      <p>Foxerlee</p>
+    </div></a>
+  </div>
+
+  <div class="card 5"><a href="https://aurora1024.github.io/" style="text-decoration: none;">
     <div class="card_image" style="background-color: #9eaab3"> <img src="friends5.jpg" /> </div>
     <div class="card_title title-black">
+      <p></p>
+      <br />
+      <p>Kefei Wu</p>
+    </div></a>
+  </div>
+
+  <div class="card 6"><a href="https://ncaylmh.github.io/" style="text-decoration: none;">
+    <div class="card_image" style="background-color: #bda3b3"> <img src="friends6.jpg" /> </div>
+    <div class="card_title title-black">
+      <p></p>
+      <br />
       <p>Minghao Li</p>
     </div></a>
   </div>
 
-  <div class="card 6"><a href="https://aurora1024.github.io/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #bda3b3"> <img src="friends6.jpg" /> </div>
+  <div class="card 7"><a href="https://wayfear.github.io/" style="text-decoration: none;">
+    <div class="card_image" style="background-color: #9eaab3"> <img src="friends7.jpg" /> </div>
     <div class="card_title title-black">
-      <p>Kefei Wu</p>
+      <p></p>
+      <br />
+      <p>Wayfear</p>
+    </div></a>
+  </div>
+
+  <div class="card 8"><a href="https://marvinquiet.github.io/" style="text-decoration: none;">
+    <div class="card_image" style="background-color: #bda3b3"> <img src="friends8.jpg" /> </div>
+    <div class="card_title title-black">
+      <p></p>
+      <br />
+      <p>Marvinquiet</p>
+    </div></a>
+  </div>
+
+  <div class="card 9"><a href="https://lujiaying.github.io/" style="text-decoration: none;">
+    <div class="card_image" style="background-color: #bda3b3"> <img src="friends9.jpg" /> </div>
+    <div class="card_title title-black">
+      <p></p>
+      <br />
+      <p>Jiaying Lu</p>
     </div></a>
   </div>
 
