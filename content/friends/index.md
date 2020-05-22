@@ -100,7 +100,7 @@ projects: []
 </style>
 
 <div class="cards-list">
-  <div class="card 1"><a href="https://zjzsliyang.com/friends/" style="text-decoration: none;">
+  <div class="card 1"><a href="https://zjzsliyang.com/" style="text-decoration: none;">
     <div class="card_image" style="background-color: #e4b093"> <img src="friends1.jpg" /> </div>
     <div class="card_title title-black">
       <br />
