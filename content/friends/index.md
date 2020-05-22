@@ -100,43 +100,43 @@ projects: []
 </style>
 
 <div class="cards-list">
-  <div class="card 1"><a href="https://www.google.com/books/edition/The_Mythical_Man_Month/Yq35BY5Fk3gC?hl=en&gbpv=0" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #e4b093"> <img src="dmg.png" /> </div>
+  <div class="card 1"><a href="https://yezhisheng.me/" style="text-decoration: none;">
+    <div class="card_image" style="background-color: #e4b093"> <img src="friends1.jpg" /> </div>
     <div class="card_title title-black">
       <p>dm-druid</p>
     </div></a>
   </div>
 
   <div class="card 2"><a href="https://hejiecui.com/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #f2bc6b"> <img src="cc.png" /> </div>
+    <div class="card_image" style="background-color: #f2bc6b"> <img src="friends2.jpg" /> </div>
     <div class="card_title title-black">
       <p>Hejie Cui</p>
     </div></a>
   </div>
 
   <div class="card 3"><a href="https://www.foxerlee.top/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #ecd8ba"> <img src="ly.png" /> </div>
+    <div class="card_image" style="background-color: #ecd8ba"> <img src="friends3.jpg" /> </div>
     <div class="card_title title-black">
       <p>Foxerlee</p>
     </div></a>
   </div>
 
   <div class="card 4"><a href="https://sxkdz.github.io/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #a49bc8"> <img src="sxkdz.png" /> </div>
+    <div class="card_image" style="background-color: #a49bc8"> <img src="friends4.jpg" /> </div>
     <div class="card_title title-black">
       <p>SXKDZ</p>
     </div></a>
   </div>
 
   <div class="card 5"><a href="https://ncaylmh.github.io/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #9eaab3"> <img src="lmh.png" /> </div>
+    <div class="card_image" style="background-color: #9eaab3"> <img src="friends5.jpg" /> </div>
     <div class="card_title title-black">
       <p>Minghao Li</p>
     </div></a>
   </div>
 
   <div class="card 6"><a href="https://aurora1024.github.io/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #bda3b3"> <img src="wkf.png" /> </div>
+    <div class="card_image" style="background-color: #bda3b3"> <img src="friends6.jpg" /> </div>
     <div class="card_title title-black">
       <p>Kefei Wu</p>
     </div></a>
