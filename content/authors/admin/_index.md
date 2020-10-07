@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include information retrieval, machine learning and data mining.
 
 interests:
+  - Graph Data Mining
   - Information Retrieval
-  - Machine Learning
-  - Data Mining
+  - Text Data Mining
   - AI in Medical Imaging
 
 education:
@@ -73,4 +73,4 @@ email: ""
 # - Visitors
 ---
 
-Hejie is a first year PhD student in the [Computer Science](http://www.cs.emory.edu/home/) Department of [Emory University](https://en.wikipedia.org/wiki/Emory_University). Her research interests include information retrieval, machine learning and data mining. She currently works with [Dr.Eugene Agichtein](https://www.agichtein.net/) and [Dr.Carl Yang](http://jiyang3.web.engr.illinois.edu/). Before joing Emory, she got her bachelor's degree in [Software Engineering](https://sse.tongji.edu.cn/) from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University). AI in medical imaging and computer vision is her previous fields during undergraduate study, where she focus on lung vessel segmentation from CT images.
+Hejie is a second year PhD student in the [Computer Science](http://www.cs.emory.edu/home/) Department of [Emory University](https://en.wikipedia.org/wiki/Emory_University). Her research interests include graph data mining, text data mining and information retrieval. She currently works with [Dr.Eugene Agichtein](https://www.agichtein.net/) and [Dr.Carl Yang](http://jiyang3.web.engr.illinois.edu/). Before joing Emory, she got her bachelor's degree in [Software Engineering](https://sse.tongji.edu.cn/) from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University). AI in medical imaging and computer vision is her previous fields during undergraduate study, where she focus on lung vessel segmentation from CT images.
