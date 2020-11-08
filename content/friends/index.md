@@ -72,7 +72,7 @@ projects: []
   text-align: center;
   border-radius: 0px 0px 40px 40px;
   font-family: "Marat Sans";
-  font-size: 20px;
+  font-size: 16px;
   margin-top: -80px;
   height: 40px;
 }
@@ -100,11 +100,11 @@ projects: []
 </style>
 
 <div class="cards-list">
-  <div class="card 1"><a href="https://zjzsliyang.com/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #e4b093"> <img src="friends1.jpg" /> </div>
+  <div class="card 1"><a href="https://wayfear.github.io/" style="text-decoration: none;">
+    <div class="card_image" style="background-color: #9eaab3"> <img src="friends7.jpg" /> </div>
     <div class="card_title title-black">
       <br />
-      <p>zjzsly</p>
+      <p>Xuan Kan</p>
     </div></a>
   </div>
 
@@ -112,7 +112,8 @@ projects: []
     <div class="card_image" style="background-color: #f2bc6b"> <img src="friends2.jpg" /> </div>
     <div class="card_title title-black">
       <br />
-      <p>yzs981130</p>
+      <p>Zhisheng Ye</p>
+      <p>special thanks for Ye's brilliant assist in constructing this site</p>
     </div></a>
   </div>
 
@@ -120,7 +121,7 @@ projects: []
     <div class="card_image" style="background-color: #ecd8ba"> <img src="friends3.jpg" /> </div>
     <div class="card_title title-black">
       <br />
-      <p>SXKDZ</p>
+      <p>Yanqiao Zhu</p>
     </div></a>
   </div>
 
@@ -128,7 +129,7 @@ projects: []
     <div class="card_image" style="background-color: #a49bc8"> <img src="friends4.jpg" /> </div>
     <div class="card_title title-black">
       <br />
-      <p>Foxerlee</p>
+      <p>Yuan Li</p>
     </div></a>
   </div>
 
@@ -148,11 +149,11 @@ projects: []
     </div></a>
   </div>
 
-  <div class="card 7"><a href="https://wayfear.github.io/" style="text-decoration: none;">
-    <div class="card_image" style="background-color: #9eaab3"> <img src="friends7.jpg" /> </div>
+  <div class="card 7"><a href="https://zjzsliyang.com/" style="text-decoration: none;">
+    <div class="card_image" style="background-color: #e4b093"> <img src="friends1.jpg" /> </div>
     <div class="card_title title-black">
       <br />
-      <p>Wayfear</p>
+      <p>Yang Li</p>
     </div></a>
   </div>
 
@@ -160,7 +161,7 @@ projects: []
     <div class="card_image" style="background-color: #bda3b3"> <img src="friends8.jpg" /> </div>
     <div class="card_title title-black">
       <br />
-      <p>Marvinquiet</p>
+      <p>Wenjing Ma</p>
     </div></a>
   </div>
 
