@@ -30,9 +30,23 @@ projects: []
 
 本地 GPU 配 pytorch_geometric 被 GCC version 坑过一次了，这次在系里服务器(NVIDIA Quadro RTX 8000)又从头搞了一次，这里记录一下，毕竟以后还要经常和 geometric 打交道（。
 
-### torch_spase
+### PyG Version Update 
+因为使用到新的transformer和WikiCS数据集进行PyG版本更新，感谢[qz](https://sxkdz.github.io/)分享的更新脚本。以下指令存成文件，chmod + x，再执行即可在当下环境中更新。
 
-在虚拟环境下安装"torch_spase" 出现 GNU 版本不支持问题
+```ssh
+#!/bin/bash
+TORCH=$(python -c "import torch; print(torch.__version__)")
+CUDA=$(python -c "import torch; version = torch.version.cuda.replace('.', ''); print(f'cu{version}')")
+pip install torch-scatter -f https://pytorch-geometric.com/whl/torch-${TORCH}+${CUDA}.html --upgrade
+pip install torch-sparse -f https://pytorch-geometric.com/whl/torch-${TORCH}+${CUDA}.html --upgrade
+pip install torch-cluster -f https://pytorch-geometric.com/whl/torch-${TORCH}+${CUDA}.html --upgrade
+pip install torch-spline-conv -f https://pytorch-geometric.com/whl/torch-${TORCH}+${CUDA}.html --upgrade
+pip install torch-geometric --upgrade
+```
+
+### torch_sparse
+
+在虚拟环境下安装"torch_sparse" 出现 GNU 版本不支持问题
 
 ```ssh
 /usr/local/cuda/include/crt/host_config.h:138:2: error: #error -- unsupported GNU version! gcc versions later than 8 are not supported!
@@ -61,9 +75,9 @@ sudo ln -s /usr/bin/gcc-8.0 /usr/local/cuda/bin/gcc
 
 (ref: https://stackoverflow.com/questions/6622454/cuda-incompatible-with-my-gcc-version)
 
-### pytorch 和 torch_spase 调用的 CUDA 版本不一致
+### pytorch 和 torch_sparse 调用的 CUDA 版本不一致
 
-安装 pytorch 1.6 时注意 CUDA 版本选 10.1，因为 torch_spase 只支持到 10.1
+安装 pytorch 1.6 时注意 CUDA 版本选 10.1，因为 torch_sparse 只支持到 10.1
 
 ```ssh
 pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html

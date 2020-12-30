@@ -4,10 +4,9 @@
 title: "A Method to Predict the Performance and Storage of Executing Contract for Ethereum Consortium-Blockchain"
 authors:
   [
-    "[Huijuan Zhang]",
+    "Huijuan Zhang",
+    "Chengxin Jin",
     "Admin",
-    "[Chengxin Jin]",
-    "[Hejie Cui](https://hejiecui.com/)",
   ]
 date: 2018-06-22T00:00:00+08:00
 doi: "10.1145/3366423.3380108"

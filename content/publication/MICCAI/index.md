@@ -4,10 +4,9 @@
 title: "Pulmonary Vessel Segmentation based on Orthogonal Fused U-Net++ of Chest CT Images"
 authors:
   [
-    "[Hejie Cui](https://hejiecui.com/)",
     "Admin",
-    "[Xinglong Liu]",
-    "[Ning Huang]",
+    "Xinglong Liu",
+    "Ning Huang",
   ]
 date: 2019-10-18T00:00:00+08:00
 doi: "10.1007/978-3-030-32226-7_33"
